@@ -1,0 +1,6 @@
+[submodule "G404_TP-Fil-Rouge_BOOKMAKER-Front"]
+	path = G404_TP-Fil-Rouge_BOOKMAKER-Front
+	url = https://github.com/Esteranodin/G404_TP-Fil-Rouge_BOOKMAKER-Front.git
+[submodule "G404_TP-Fil-Rouge_BOOKMAKER-API"]
+	path = G404_TP-Fil-Rouge_BOOKMAKER-API
+	url = https://github.com/Esteranodin/G404_TP-Fil-Rouge_BOOKMAKER-API.git
